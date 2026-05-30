@@ -102,6 +102,7 @@ DSA/
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0231-power-of-two](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/0258-add-digits/) | Easy |
 | [0509-fibonacci-number](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/0509-fibonacci-number/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -121,9 +122,14 @@ DSA/
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0231-power-of-two](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/0509-fibonacci-number/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/0231-power-of-two/) | Easy |
 <!---LeetCode Topics End-->
