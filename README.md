@@ -68,6 +68,7 @@ DSA/
 | [0045-jump-game-ii](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0045-jump-game-ii/) | Medium |
 | [0048-rotate-image](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0055-jump-game](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0055-jump-game/) | Medium |
+| [0056-merge-intervals](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0056-merge-intervals/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0118-pascals-triangle](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/0118-pascals-triangle/) | Easy |
@@ -234,6 +235,7 @@ DSA/
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0056-merge-intervals/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0268-missing-number](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
