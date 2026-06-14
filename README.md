@@ -155,6 +155,7 @@ DSA/
 | [0012-integer-to-roman](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0012-integer-to-roman/) | Medium |
 | [0022-generate-parentheses](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/0022-generate-parentheses/) | Medium |
 | [0043-multiply-strings](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0043-multiply-strings/) | Medium |
+| [0058-length-of-last-word](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/0168-excel-sheet-column-title/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/0387-first-unique-character-in-a-string/) | Easy |
