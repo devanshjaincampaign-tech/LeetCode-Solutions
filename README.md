@@ -177,6 +177,7 @@ DSA/
 | [0069-sqrtx](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/0070-climbing-stairs/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/0168-excel-sheet-column-title/) | Easy |
+| [0172-factorial-trailing-zeroes](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0172-factorial-trailing-zeroes/) | Medium |
 | [0204-count-primes](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/0258-add-digits/) | Easy |
