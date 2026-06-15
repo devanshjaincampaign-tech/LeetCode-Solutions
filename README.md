@@ -167,6 +167,7 @@ DSA/
 | [0389-find-the-difference](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/0392-is-subsequence/) | Easy |
 | [0415-add-strings](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/0415-add-strings/) | Easy |
+| [0434-number-of-segments-in-a-string](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/0434-number-of-segments-in-a-string/) | Easy |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
