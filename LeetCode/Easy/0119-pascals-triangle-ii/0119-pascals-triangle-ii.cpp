@@ -1,15 +1,14 @@
 class Solution {
 public:
     vector<int> getRow(int rowIndex) {
-        vector<int> vec(rowIndex + 1);
-        vec[0] = 1;
-        
-        long long current = 1;
-        for (int i = 1; i <= rowIndex; i++) {
-            current = current * (rowIndex - i + 1) / i;
-            vec[i] = current;
+        vector<vector<int>>dp;
+        for(int i=0;i<=rowIndex;i++){
+            vector<int>pascals(i+1,1);
+            for(int j=1;j<i;j++){
+                pascals[j]=dp[i-1][j-1]+dp[i-1][j];
+            }
+            dp.push_back(pascals);
         }
-        
-        return vec;
+        return dp[rowIndex];
     }
 };
