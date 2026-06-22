@@ -1,22 +1,18 @@
 class Solution {
-private:
-    // Change BOTH the return type and parameter to __int128_t
-    __int128_t fact(__int128_t x){
-        if(x==0) return 1;
-        return x*fact(x-1);
-    }
 public:
     vector<vector<int>> generate(int numRows) {
-        vector<vector<int>> numrows;
+        vector<vector<int>> dp;
         
-        for(int i=0; i<numRows; i++){
-            vector<int> digits;
-            for(int j=0; j<=i; j++){
-                
-                digits.push_back(fact(i)/(fact(i-j)*fact(j)));
+        for (int i = 0; i < numRows; i++) {
+            vector<int> row(i + 1, 1);
+            
+            for (int j = 1; j < i; j++) {
+                row[j] = dp[i - 1][j - 1] + dp[i - 1][j];
             }
-            numrows.push_back(digits);
+            
+            dp.push_back(row);
         }
-        return numrows;
+        
+        return dp;
     }
 };
