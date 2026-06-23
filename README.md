@@ -146,6 +146,7 @@ DSA/
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0143-reorder-list](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0143-reorder-list/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Design
@@ -272,6 +273,7 @@ DSA/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0060-permutation-sequence](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Hard/0060-permutation-sequence/) | Hard |
+| [0143-reorder-list](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0143-reorder-list/) | Medium |
 | [0231-power-of-two](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
@@ -412,6 +414,7 @@ DSA/
 | [0075-sort-colors](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0086-partition-list](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0086-partition-list/) | Medium |
+| [0143-reorder-list](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0143-reorder-list/) | Medium |
 | [0148-sort-list](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0148-sort-list/) | Medium |
 | [0283-move-zeroes](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
@@ -487,6 +490,7 @@ DSA/
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0061-rotate-list/) | Medium |
 | [0086-partition-list](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0086-partition-list/) | Medium |
+| [0143-reorder-list](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0143-reorder-list/) | Medium |
 | [0148-sort-list](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0148-sort-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
