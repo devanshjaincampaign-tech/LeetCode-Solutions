@@ -83,6 +83,7 @@ DSA/
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Hard/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
+| [0150-evaluate-reverse-polish-notation](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Hard/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0162-find-peak-element/) | Medium |
@@ -158,6 +159,7 @@ DSA/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0143-reorder-list](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0143-reorder-list/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Design
@@ -232,6 +234,7 @@ DSA/
 | [0067-add-binary](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/0070-climbing-stairs/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/0168-excel-sheet-column-title/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0172-factorial-trailing-zeroes/) | Medium |
 | [0204-count-primes](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
