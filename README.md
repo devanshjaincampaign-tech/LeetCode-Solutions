@@ -282,6 +282,7 @@ DSA/
 | [2485-find-the-pivot-integer](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/2485-find-the-pivot-integer/) | Easy |
 | [2523-closest-prime-numbers-in-range](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/2523-closest-prime-numbers-in-range/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Hard/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
@@ -303,6 +304,7 @@ DSA/
 | [0204-count-primes](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
 | [0258-add-digits](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/0258-add-digits/) | Easy |
 | [2523-closest-prime-numbers-in-range](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/2523-closest-prime-numbers-in-range/) | Medium |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
