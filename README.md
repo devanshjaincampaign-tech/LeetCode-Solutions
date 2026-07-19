@@ -103,6 +103,7 @@ DSA/
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0454-4sum-ii](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0454-4sum-ii/) | Medium |
 | [0455-assign-cookies](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/0455-assign-cookies/) | Easy |
+| [0496-next-greater-element-i](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0695-max-area-of-island](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
 | [0704-binary-search](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/0704-binary-search/) | Easy |
 | [0733-flood-fill](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
@@ -177,6 +178,7 @@ DSA/
 | [0143-reorder-list](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0143-reorder-list/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0496-next-greater-element-i](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/1441-build-an-array-with-stack-operations/) | Medium |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/1653-minimum-deletions-to-make-string-balanced/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -206,6 +208,7 @@ DSA/
 | [0389-find-the-difference](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0454-4sum-ii](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0454-4sum-ii/) | Medium |
+| [0496-next-greater-element-i](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0992-subarrays-with-k-different-integers](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Hard/0992-subarrays-with-k-different-integers/) | Hard |
 | [0997-find-the-town-judge](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/0997-find-the-town-judge/) | Easy |
 | [1015-smallest-integer-divisible-by-k](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/1015-smallest-integer-divisible-by-k/) | Medium |
@@ -630,4 +633,8 @@ DSA/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1668-maximum-repeating-substring](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/1668-maximum-repeating-substring/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 <!---LeetCode Topics End-->
