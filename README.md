@@ -149,6 +149,7 @@ DSA/
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/3689-maximum-total-subarray-value-i/) | Medium |
+| [3834-merge-adjacent-equal-elements](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/3834-merge-adjacent-equal-elements/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -200,6 +201,7 @@ DSA/
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [3174-clear-digits](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/3174-clear-digits/) | Easy |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/3746-minimum-string-length-after-balanced-removals/) | Medium |
+| [3834-merge-adjacent-equal-elements](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/3834-merge-adjacent-equal-elements/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -341,6 +343,7 @@ DSA/
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [3174-clear-digits](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/3174-clear-digits/) | Easy |
 | [3614-process-string-with-special-operations-ii](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Hard/3614-process-string-with-special-operations-ii/) | Hard |
+| [3834-merge-adjacent-equal-elements](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/3834-merge-adjacent-equal-elements/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
