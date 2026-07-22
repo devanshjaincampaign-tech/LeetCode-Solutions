@@ -104,6 +104,7 @@ DSA/
 | [0454-4sum-ii](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0454-4sum-ii/) | Medium |
 | [0455-assign-cookies](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/0455-assign-cookies/) | Easy |
 | [0496-next-greater-element-i](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0503-next-greater-element-ii/) | Medium |
 | [0682-baseball-game](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/0682-baseball-game/) | Easy |
 | [0695-max-area-of-island](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
 | [0704-binary-search](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/0704-binary-search/) | Easy |
@@ -186,6 +187,7 @@ DSA/
 | [0232-implement-queue-using-stacks](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0445-add-two-numbers-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0503-next-greater-element-ii/) | Medium |
 | [0682-baseball-game](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/0682-baseball-game/) | Easy |
 | [0844-backspace-string-compare](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/0844-backspace-string-compare/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/1021-remove-outermost-parentheses/) | Easy |
@@ -684,5 +686,6 @@ DSA/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0503-next-greater-element-ii/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 <!---LeetCode Topics End-->
