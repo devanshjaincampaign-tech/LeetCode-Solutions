@@ -185,6 +185,7 @@ DSA/
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0143-reorder-list](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0143-reorder-list/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0155-min-stack](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0445-add-two-numbers-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
@@ -209,6 +210,7 @@ DSA/
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [2043-simple-bank-system](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/2043-simple-bank-system/) | Medium |
 ## Queue
