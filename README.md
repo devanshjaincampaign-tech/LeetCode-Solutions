@@ -329,6 +329,7 @@ DSA/
 | [2485-find-the-pivot-integer](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/2485-find-the-pivot-integer/) | Easy |
 | [2523-closest-prime-numbers-in-range](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/2523-closest-prime-numbers-in-range/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Hard/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -454,6 +455,7 @@ DSA/
 | [2563-count-the-number-of-fair-pairs](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/2563-count-the-number-of-fair-pairs/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+| [3536-maximum-product-of-two-digits](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/3536-maximum-product-of-two-digits/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Tree
