@@ -299,6 +299,7 @@ DSA/
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [3174-clear-digits](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/3174-clear-digits/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/3499-maximize-active-section-with-trade-i/) | Medium |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Hard/3614-process-string-with-special-operations-ii/) | Hard |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/3746-minimum-string-length-after-balanced-removals/) | Medium |
 ## Counting
@@ -481,6 +482,7 @@ DSA/
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2563-count-the-number-of-fair-pairs](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/2563-count-the-number-of-fair-pairs/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/3536-maximum-product-of-two-digits/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -644,6 +646,7 @@ DSA/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
