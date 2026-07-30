@@ -519,6 +519,7 @@ DSA/
 | [0701-insert-into-a-binary-search-tree](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/0938-range-sum-of-bst/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2236-root-equals-sum-of-children](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/2236-root-equals-sum-of-children/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -570,6 +571,7 @@ DSA/
 | [0701-insert-into-a-binary-search-tree](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/0938-range-sum-of-bst/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2236-root-equals-sum-of-children](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/2236-root-equals-sum-of-children/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
