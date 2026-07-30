@@ -12,12 +12,12 @@
 class Solution {
 public:
     vector<int> preorderTraversal(TreeNode* root) {
-        vector<int>preorder;
-        TreeNode*curr=root;
+        vector<int>finalans;
 
+        TreeNode*curr=root;
         while(curr!=nullptr){
             if(curr->left==nullptr){
-                preorder.push_back(curr->val);
+                finalans.push_back(curr->val);
                 curr=curr->right;
             }
             else{
@@ -25,17 +25,19 @@ public:
                 while(pred->right!=nullptr && pred->right!=curr){
                     pred=pred->right;
                 }
+
                 if(pred->right==nullptr){
-                    preorder.push_back(curr->val);
                     pred->right=curr;
+                    finalans.push_back(curr->val);
                     curr=curr->left;
                 }
                 else{
                     pred->right=nullptr;
+                    
                     curr=curr->right;
                 }
             }
         }
-        return preorder;
+        return finalans;
     }
 };
