@@ -10,43 +10,45 @@
  * };
  */
 class Solution {
-    private:
-    TreeNode* Minvaluenode(TreeNode*root){
-        TreeNode*current=root;
-        while(current && current->left!=nullptr){
-            current=current->left;
+private:
+    TreeNode*Minvaluenode(TreeNode*root){
+        TreeNode*curr=root;
+        while(curr!=nullptr && curr->left!=nullptr){
+            curr=curr->left;
         }
-        return current;
-    }
 
+        return curr;
+    }
 public:
     TreeNode* deleteNode(TreeNode* root, int key) {
         if(root==nullptr)return nullptr;
-        if(key<root->val){
-            root->left=deleteNode(root->left,key);
-        }
-        else if(key>root->val){
-            root->right=deleteNode(root->right,key);
+        TreeNode*current=root;
+
+        if(current->val>key){
+            root->left= deleteNode(current->left, key);
         }
 
+        else if(current->val<key){
+            root->right= deleteNode(current->right,key);
+        }
         else{
-            if(root->left==nullptr){
+            if(current->left==nullptr){
                 TreeNode*temp=root->right;
-                delete root;
+                delete current;
                 return temp;
             }
-            else if(root->right==nullptr){
+            else if(current->right==nullptr){
                 TreeNode*temp=root->left;
-                delete root;
+                delete current;
                 return temp;
             }
-
             else{
-                TreeNode*temp=Minvaluenode(root->right);
-                root->val=temp->val;
-                root->right=deleteNode(root->right,temp->val);
+                TreeNode*temp=Minvaluenode(current->right);
+                current->val=temp->val;
+                current->right=deleteNode(root->right,temp->val);
+                
             }
         }
-        return root;
+        return current;
     }
 };
