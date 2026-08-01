@@ -105,6 +105,7 @@ DSA/
 | [0454-4sum-ii](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0454-4sum-ii/) | Medium |
 | [0455-assign-cookies](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/0455-assign-cookies/) | Easy |
 | [0456-132-pattern](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0456-132-pattern/) | Medium |
+| [0486-predict-the-winner](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 | [0496-next-greater-element-i](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0503-next-greater-element-ii/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0581-shortest-unsorted-continuous-subarray/) | Medium |
@@ -344,6 +345,7 @@ DSA/
 | [0268-missing-number](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0415-add-strings](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/0415-add-strings/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0445-add-two-numbers-ii/) | Medium |
+| [0486-predict-the-winner](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/0728-self-dividing-numbers/) | Easy |
@@ -408,6 +410,7 @@ DSA/
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Hard/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0338-counting-bits](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/0338-counting-bits/) | Easy |
 | [0392-is-subsequence](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/0392-is-subsequence/) | Easy |
+| [0486-predict-the-winner](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/0509-fibonacci-number/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0678-valid-parenthesis-string/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/0746-min-cost-climbing-stairs/) | Easy |
@@ -429,6 +432,7 @@ DSA/
 | [0224-basic-calculator](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Hard/0224-basic-calculator/) | Hard |
 | [0231-power-of-two](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/0231-power-of-two/) | Easy |
 | [0394-decode-string](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0394-decode-string/) | Medium |
+| [0486-predict-the-winner](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
@@ -783,6 +787,7 @@ DSA/
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0486-predict-the-winner](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 | [1025-divisor-game](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/1025-divisor-game/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
