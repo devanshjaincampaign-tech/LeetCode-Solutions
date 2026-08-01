@@ -1,44 +1,33 @@
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
- * };
- */
 class Solution {
 public:
     vector<vector<int>> levelOrder(TreeNode* root) {
-        vector<vector<int>>finalans;
-        if(root==nullptr) return finalans;
+        vector<vector<int>> finalans;
+        if (root == nullptr) return finalans;
 
-        queue<TreeNode*>q;
+        queue<TreeNode*> q;
         q.push(root);
 
-        while(!q.empty()){
-            int levelsize=q.size();
-            vector<int>ans;
+        while (!q.empty()) {
+            int levelsize = q.size();
+            vector<int> values;
 
-            for(int i=0;i<levelsize;i++){
-                
-                TreeNode*current=q.front();
-                ans.push_back(current->val);
+            for (int i = 0; i < levelsize; i++) {
+                // Get the node from the queue and remove it
+                TreeNode* current = q.front();
                 q.pop();
 
-                if(current->left!=nullptr){
+                // Process the current node's value
+                values.push_back(current->val);
+
+                // Enqueue left and right children if they exist
+                if (current->left != nullptr) {
                     q.push(current->left);
                 }
-
-                if(current->right!=nullptr){
+                if (current->right != nullptr) {
                     q.push(current->right);
                 }
-
             }
-            finalans.push_back(ans);
-            
+            finalans.push_back(values);
         }
         return finalans;
     }
