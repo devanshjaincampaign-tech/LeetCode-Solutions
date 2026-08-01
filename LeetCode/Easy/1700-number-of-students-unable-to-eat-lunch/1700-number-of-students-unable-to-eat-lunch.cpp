@@ -1,33 +1,29 @@
 class Solution {
-private:
-    void sendstudentback(vector<int>& students) {
-        if (students.empty()) return;
-        
-     
-        int first = students[0];
-        for (int i = 0; i < students.size() - 1; i++) {
-            students[i] = students[i + 1];
-        }
-        students.back() = first;
-    }
-
 public:
     int countStudents(vector<int>& students, vector<int>& sandwiches) {
-        int rotations = 0;
-        
-        while (!sandwiches.empty() && rotations < students.size()) {
-            if (students[0] == sandwiches[0]) {
-                
-                students.erase(students.begin());
-                sandwiches.erase(sandwiches.begin());
-                rotations = 0; 
-            } 
-            else {
-                sendstudentback(students);
-                rotations++;
+        queue<int>student;
+        queue<int>sandwiche;
+
+        for(int i=0;i<students.size();i++){
+            student.push(students[i]);
+            sandwiche.push(sandwiches[i]);
+        }
+
+        int failed_attempts=0;
+
+        while(!sandwiche.empty() && failed_attempts!=student.size()){
+            if(student.front()!=sandwiche.front()){
+                int temp=student.front();
+                student.pop();
+                student.push(temp);
+                failed_attempts++;
+            }
+            else{
+                student.pop();
+                sandwiche.pop();
+                failed_attempts=0;
             }
         }
-        
-        return students.size();
+        return student.size();
     }
 };
