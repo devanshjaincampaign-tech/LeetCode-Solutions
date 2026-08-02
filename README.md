@@ -135,6 +135,7 @@ DSA/
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1598-crawler-log-folder](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/1598-crawler-log-folder/) | Easy |
+| [1670-design-front-middle-back-queue](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/1670-design-front-middle-back-queue/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1711-count-good-meals](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/1711-count-good-meals/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/1732-find-the-highest-altitude/) | Easy |
@@ -238,6 +239,7 @@ DSA/
 | [0225-implement-stack-using-queues](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0622-design-circular-queue](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0622-design-circular-queue/) | Medium |
+| [1670-design-front-middle-back-queue](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/1670-design-front-middle-back-queue/) | Medium |
 | [2043-simple-bank-system](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/2043-simple-bank-system/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
@@ -249,6 +251,7 @@ DSA/
 | [0622-design-circular-queue](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0622-design-circular-queue/) | Medium |
 | [0649-dota2-senate](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0649-dota2-senate/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0950-reveal-cards-in-increasing-order/) | Medium |
+| [1670-design-front-middle-back-queue](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/1670-design-front-middle-back-queue/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 ## Hash Table
@@ -772,6 +775,7 @@ DSA/
 | [0148-sort-list](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0148-sort-list/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0445-add-two-numbers-ii/) | Medium |
 | [0622-design-circular-queue](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0622-design-circular-queue/) | Medium |
+| [1670-design-front-middle-back-queue](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/1670-design-front-middle-back-queue/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Combinatorics
@@ -830,4 +834,12 @@ DSA/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0456-132-pattern](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0456-132-pattern/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1670-design-front-middle-back-queue](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/1670-design-front-middle-back-queue/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1670-design-front-middle-back-queue](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/1670-design-front-middle-back-queue/) | Medium |
 <!---LeetCode Topics End-->
