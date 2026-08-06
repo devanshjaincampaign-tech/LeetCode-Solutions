@@ -1,23 +1,21 @@
 class Solution {
 public:
     int findCenter(vector<vector<int>>& edges) {
-        int e = edges.size();
-        int num_nodes = e + 1;
-        
-        
-        vector<int> starnode(num_nodes + 1, 0); 
-        
-        for(const auto& numbers : edges){
-            starnode[numbers[0]]++;
-            starnode[numbers[1]]++;
+        int n=edges.size();
+        vector<int>vec(n+22,0);
+        for(const auto& pair:edges){
+            int u=pair[0];
+            int v=pair[1];
+
+            vec[u]++;vec[v]++;
         }
 
-        
-        for(int i = 1; i <= num_nodes; i++){
-            if(starnode[i] == e){ 
-                return i; 
+        for(int i=1;i<=n+1;i++){
+            if(vec[i]==n){
+                return i;
             }
         }
+
         return -1;
     }
 };
