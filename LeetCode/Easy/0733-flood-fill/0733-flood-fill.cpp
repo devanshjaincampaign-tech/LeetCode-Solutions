@@ -1,32 +1,33 @@
 class Solution {
+void colorfill(vector<vector<int>>& image, int r,int c,int newcolor, int oldcolor){
+    int rows=image.size();
+    int cols=image[0].size();
+
+    if(r<0 || r>=rows || c<0 || c>=cols)return ;
+    if(image[r][c]!=oldcolor || image[r][c]==newcolor)return ;
+
+
+    image[r][c]=newcolor;
+
+    int dr[] = {-1, 1, 0, 0};
+    int dc[] = {0, 0, -1, 1};
+    for (int d = 0; d < 4; d++) {
+        colorfill(image, r + dr[d], c + dc[d], newcolor, oldcolor);
+    }
+
+
+}
 public:
     vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) {
-        int originalcolor=image[sr][sc];
-        if(originalcolor==color)return image;
+        int oldcolor=image[sr][sc];
 
         int rows=image.size();
         int cols=image[0].size();
 
-        queue<pair<int,int>>q;
-        q.push({sr,sc});
-        image[sr][sc]=color;
-
-        int dRow[]={-1,1,0,0};
-        int dcol[]={0,0,-1,1};
-
-        while(!q.empty()){
-            auto[r,c]=q.front();
-            q.pop();
-            for(int i=0;i<4;i++){
-                int nRow=r+dRow[i];
-                int ncol=c+dcol[i];
-
-                if(nRow>=0 && nRow<rows && ncol>=0 && ncol<cols &&image[nRow][ncol]==originalcolor){
-                    image[nRow][ncol]=color;
-                    q.push({nRow,ncol});
-                }
-            }
+        if (oldcolor != color) {
+            colorfill(image, sr, sc, color, oldcolor);
         }
+
         return image;
     }
 };
