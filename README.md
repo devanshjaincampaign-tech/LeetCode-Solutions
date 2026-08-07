@@ -606,6 +606,7 @@ DSA/
 | [0144-binary-tree-preorder-traversal](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/0145-binary-tree-postorder-traversal/) | Easy |
 | [0200-number-of-islands](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
+| [0207-course-schedule](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
@@ -629,6 +630,7 @@ DSA/
 | [0112-path-sum](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/0112-path-sum/) | Easy |
 | [0133-clone-graph](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0133-clone-graph/) | Medium |
 | [0200-number-of-islands](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
+| [0207-course-schedule](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/0226-invert-binary-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/0404-sum-of-left-leaves/) | Easy |
 | [0695-max-area-of-island](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
@@ -802,6 +804,7 @@ DSA/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0133-clone-graph/) | Medium |
+| [0207-course-schedule](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0207-course-schedule/) | Medium |
 | [0997-find-the-town-judge](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/0997-find-the-town-judge/) | Easy |
 | [1791-find-center-of-star-graph](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/1791-find-center-of-star-graph/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/1971-find-if-path-exists-in-graph/) | Easy |
@@ -861,6 +864,7 @@ DSA/
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0207-course-schedule/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Hard/3620-network-recovery-pathways/) | Hard |
 ## Brainteaser
 | Problem Name | Difficulty |
@@ -910,4 +914,8 @@ DSA/
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/0374-guess-number-higher-or-lower/) | Easy |
+## Directed Acyclic Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0207-course-schedule/) | Medium |
 <!---LeetCode Topics End-->
