@@ -4,32 +4,31 @@ public:
         vector<vector<int>> adj(numCourses);
         vector<int> indegree(numCourses, 0);
 
-        // Build adjacency list and indegree array
-        for (const auto& pre : prerequisites) {
-            int course = pre[0];
-            int prereq = pre[1];
-            adj[prereq].push_back(course); // Directed edge from prereq -> course
-            indegree[course]++;
+        for (const auto& p : prerequisites) {
+            int u = p[0];
+            int v = p[1];
+            adj[v].push_back(u);
+            indegree[u]++;
         }
 
         queue<int> q;
-        // Enqueue courses with no prerequisites
-        for (int i = 0; i < numCourses; ++i) {
+        for (int i = 0; i < numCourses; i++) {
             if (indegree[i] == 0) {
                 q.push(i);
             }
         }
 
         int count = 0;
+
         while (!q.empty()) {
-            int curr = q.front();
+            int node = q.front();
             q.pop();
             count++;
 
-            for (int neighbor : adj[curr]) {
-                indegree[neighbor]--;
-                if (indegree[neighbor] == 0) {
-                    q.push(neighbor);
+            for (int neighbour : adj[node]) {
+                indegree[neighbour]--;
+                if (indegree[neighbour] == 0) {
+                    q.push(neighbour);
                 }
             }
         }
