@@ -179,6 +179,7 @@ DSA/
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/3689-maximum-total-subarray-value-i/) | Medium |
+| [3718-smallest-missing-multiple-of-k](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/3731-find-missing-elements/) | Easy |
 | [3834-merge-adjacent-equal-elements](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/3834-merge-adjacent-equal-elements/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/3898-find-the-degree-of-each-vertex/) | Easy |
@@ -318,6 +319,7 @@ DSA/
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Hard/3518-smallest-palindromic-rearrangement-ii/) | Hard |
+| [3718-smallest-missing-multiple-of-k](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/3731-find-missing-elements/) | Easy |
 ## String
 | Problem Name | Difficulty |
