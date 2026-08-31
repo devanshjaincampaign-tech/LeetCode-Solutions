@@ -70,6 +70,7 @@ DSA/
 | [0033-search-in-rotated-sorted-array](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/0035-search-insert-position/) | Easy |
+| [0039-combination-sum](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0039-combination-sum/) | Medium |
 | [0045-jump-game-ii](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0045-jump-game-ii/) | Medium |
 | [0048-rotate-image](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0055-jump-game](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0055-jump-game/) | Medium |
@@ -539,6 +540,7 @@ DSA/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/0022-generate-parentheses/) | Medium |
+| [0039-combination-sum](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/0039-combination-sum/) | Medium |
 | [0257-binary-tree-paths](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/0257-binary-tree-paths/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
