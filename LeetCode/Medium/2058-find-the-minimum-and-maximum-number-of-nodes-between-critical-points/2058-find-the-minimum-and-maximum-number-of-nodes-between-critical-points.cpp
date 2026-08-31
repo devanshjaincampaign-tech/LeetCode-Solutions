@@ -7,36 +7,38 @@ public:
 
         ListNode* prev = head;
         ListNode* curr = head->next;
-        ListNode* nextnode = curr->next;
+        
+        int first_cp = -1;
+        int prev_cp = -1;
+        int min_dist = INT_MAX;
+        int curr_idx = 1; // 0-based index for curr (or 1-based, relative distance remains identical)
 
-        int firstIdx = -1;
-        int prevIdx = -1;
-        int minDistance = INT_MAX;
-        int currentIndex = 1;
+        while (curr->next != nullptr) {
+            ListNode* next_node = curr->next;
 
-        while (nextnode != nullptr) {
-            if ((curr->val > prev->val && curr->val > nextnode->val) ||
-                (curr->val < prev->val && curr->val < nextnode->val)) {
-                
-                if (firstIdx == -1) {
-                    firstIdx = currentIndex;
+            bool is_local_max = (curr->val > prev->val) && (curr->val > next_node->val);
+            bool is_local_min = (curr->val < prev->val) && (curr->val < next_node->val);
+
+            if (is_local_max || is_local_min) {
+                if (first_cp == -1) {
+                    first_cp = curr_idx;
                 } else {
-                    minDistance = min(minDistance, currentIndex - prevIdx);
+                    min_dist = min(min_dist, curr_idx - prev_cp);
                 }
-                prevIdx = currentIndex;
+                prev_cp = curr_idx;
             }
 
             prev = curr;
-            curr = nextnode;
-            nextnode = nextnode->next;
-            currentIndex++;
+            curr = next_node;
+            curr_idx++;
         }
 
-        if (minDistance == INT_MAX) {
+        // If fewer than 2 critical points were found
+        if (first_cp == -1 || first_cp == prev_cp) {
             return {-1, -1};
         }
 
-        int maxDistance = prevIdx - firstIdx;
-        return {minDistance, maxDistance};
+        int max_dist = prev_cp - first_cp;
+        return {min_dist, max_dist};
     }
 };
