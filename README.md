@@ -189,6 +189,7 @@ DSA/
 | [3875-construct-uniform-parity-array-i](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/3898-find-the-degree-of-each-vertex/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/3904-smallest-stable-index-ii/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -843,6 +844,7 @@ DSA/
 | [2574-left-and-right-sum-differences](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/2574-left-and-right-sum-differences/) | Easy |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 | [3699-number-of-zigzag-arrays-i](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Hard/3699-number-of-zigzag-arrays-i/) | Hard |
+| [3904-smallest-stable-index-ii](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/3904-smallest-stable-index-ii/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
