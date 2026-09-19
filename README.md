@@ -453,6 +453,7 @@ DSA/
 | [1025-divisor-game](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/1025-divisor-game/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/1137-n-th-tribonacci-number/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1401-circle-and-rectangle-overlapping](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1406-stone-game-iii](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Hard/1406-stone-game-iii/) | Hard |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
@@ -1001,6 +1002,7 @@ DSA/
 | [0812-largest-triangle-area](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/0812-largest-triangle-area/) | Easy |
 | [0836-rectangle-overlap](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/0836-rectangle-overlap/) | Easy |
 | [0883-projection-area-of-3d-shapes](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Easy/0883-projection-area-of-3d-shapes/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/devanshjaincampaign-tech/dsa-60dayjourney-day1/tree/main/LeetCode/Medium/1401-circle-and-rectangle-overlapping/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
