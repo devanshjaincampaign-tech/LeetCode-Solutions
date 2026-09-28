@@ -1,54 +1,73 @@
 class MyCircularQueue {
 private:
-    vector<int> circularqueue;
-    int head;
-    int tail;
-    int count;
-    int capacity;
-
+    vector<int>cq;
+    int rear=-1;
+    int front=-1;
 public:
     MyCircularQueue(int k) {
-        circularqueue.resize(k);
-        capacity = k;
-        head = 0;
-        tail = 0;
-        count = 0;
+        cq.resize(k);
     }
     
     bool enQueue(int value) {
-        if (isFull()) return false;
-        
-        circularqueue[tail] = value;
-        tail = (tail + 1) % capacity; // Wrap around to index 0 if tail hits end
-        count++;
+        if(isFull()){
+            return false;
+        }
+
+        if(isEmpty()){
+            front=0;
+        }
+
+        rear=(rear+1)%cq.size();
+        cq[rear]=value;
         return true;
     }
     
     bool deQueue() {
-        if (isEmpty()) return false;
-        
-        head = (head + 1) % capacity; // Wrap around to index 0 if head hits end
-        count--;
+        if(isEmpty()){
+            return false;
+        }
+
+        if(front==rear){
+            front=-1;
+            rear=-1;
+        }
+        else{
+            front=(front+1)%cq.size();
+        }
+
         return true;
     }
     
     int Front() {
-        if (isEmpty()) return -1;
-        return circularqueue[head];
+        if (isEmpty()) {
+            return -1;
+        }
+        return cq[front];
     }
     
     int Rear() {
-        if (isEmpty()) return -1;
-        // Since tail points to the next available empty spot, 
-        // the last inserted element is at (tail - 1 + capacity) % capacity
-        return circularqueue[(tail - 1 + capacity) % capacity];
+        if (isEmpty()) {
+            return -1;
+        }
+        return cq[rear];
     }
     
     bool isEmpty() {
-        return count == 0;
+        return front==-1;
     }
     
     bool isFull() {
-        return count == capacity;
+        return (rear + 1) % cq.size() == front;
     }
 };
+
+/**
+ * Your MyCircularQueue object will be instantiated and called as such:
+ * MyCircularQueue* obj = new MyCircularQueue(k);
+ * bool param_1 = obj->enQueue(value);
+ * bool param_2 = obj->deQueue();
+ * int param_3 = obj->Front();
+ * int param_4 = obj->Rear();
+ * bool param_5 = obj->isEmpty();
+ * bool param_6 = obj->isFull();
+ */
